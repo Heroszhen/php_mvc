@@ -1,0 +1,5 @@
+SQLite supports these datatypes: Blob, Integer, Null, Text, Real.
+
+
+---oenssl
+openssl_get_cipher_methods()
